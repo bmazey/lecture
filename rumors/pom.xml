@@ -33,6 +33,13 @@
             <optional>true</optional>
         </dependency>
 
+        <!-- h2 -->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
         <!-- model mapper: http://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application -->
         <dependency>
             <groupId>org.modelmapper</groupId>
