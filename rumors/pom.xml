@@ -11,5 +11,8 @@
 
     <artifactId>rumors</artifactId>
 
+    <dependencies>
+
+    </dependencies>
 
 </project>
