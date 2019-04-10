@@ -9,4 +9,4 @@ phases:
 artifacts:
   files:
     - 'Dockerfile'
-    - target/rumors-1.0-SNAPSHOT.jar
+    - target/test-1.0-SNAPSHOT.jar
